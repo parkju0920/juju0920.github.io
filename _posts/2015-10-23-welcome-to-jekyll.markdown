@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Smart Post"
+title:  "mbti"
 date:   2015-10-23 17:40:06
 categories: jekyll update
 image: destkop-image-sample.jpg
